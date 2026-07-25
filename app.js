@@ -753,7 +753,7 @@ const RAW_EVENTS = [
 const PROFILE_FIELDS = [
   ['PLAYER ID', '#4187', ''],
   ['CLUB LEVEL', 'PEARL', 'sapphire'],
-  ['ZONE', 'PIT 3', ''],
+  ['ZONE', 'PIT 4', ''],
   ['BANK', 'BJ-BANK-4', ''],
   ['ASSET', 'BJ-12', ''],
   ['STAND / SEAT', 'SEAT 5', ''],
